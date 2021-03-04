@@ -57,7 +57,7 @@ Artifact is publishing to Jitpack.io. You can add this repository to your projec
 Add to your .gradle file:
 ```gradle
 dependencies {
-	        implementation 'com.github.salihselimsekerci:MultiProgressBar:Tag'
+	        implementation 'com.github.salihselimsekerci:MultiProgressBar:1a03b90433'
 	}
 ```
 
