@@ -2,7 +2,7 @@
 [![](https://jitpack.io/v/salihselimsekerci/MultiProgressBar.svg)](https://jitpack.io/#salihselimsekerci/MultiProgressBar)
 
 
-![multiprogressbarsss](https://user-images.githubusercontent.com/53614606/109916455-b5c5b780-7cc4-11eb-86dc-cb62c9a09d55.gif)
+![multiprogressbar](https://user-images.githubusercontent.com/53614606/109932377-24ae0b00-7cdb-11eb-9b52-87fc160b4d2e.gif)
 
 
 ## Short description
