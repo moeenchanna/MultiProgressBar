@@ -1,5 +1,6 @@
 # MultiProgressBar
 [![](https://jitpack.io/v/salihselimsekerci/MultiProgressBar.svg)](https://jitpack.io/#salihselimsekerci/MultiProgressBar)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c4689c2c33774ef0ac7ce784cc4e3fe2)](https://www.codacy.com/gh/salihselimsekerci/MultiProgressBar/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=salihselimsekerci/MultiProgressBar&amp;utm_campaign=Badge_Grade)
 
 
 ![multiprogressbar](https://user-images.githubusercontent.com/53614606/109932377-24ae0b00-7cdb-11eb-9b52-87fc160b4d2e.gif)
