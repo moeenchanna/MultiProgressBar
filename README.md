@@ -44,7 +44,7 @@ interface ProgressStepChangeListener {
 
 ## Usage
 
-Artifact is publishing to Maven Central. You can add this repository to your project with:
+Artifact is publishing to Jitpack.io. You can add this repository to your project with:
 ```	allprojects {
 		repositories {
 			...
